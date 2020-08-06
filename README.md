@@ -1,6 +1,6 @@
 ### Hi I'm Fernando 👋
 
-🌱 I’m a System Engineering student in Frontend Angular currently I am learning JS and React JS, Backend Laravel. 
+🌱 I’m a System Engineering student  currently I am learning in Frontend Angular JS and React JS, Backend Laravel(PHP). 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernando59&theme=dark&show_icons=true)
 <hr>
