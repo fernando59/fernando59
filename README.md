@@ -6,7 +6,7 @@
 <hr>
 
 ## Follow Me
-[![Gmail Badge](https://img.shields.io/badge/-fernandomercado529@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=fernando:fernandomercado529@gmail.com)](fernandomercado529@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fernandomercado529@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=fernando:fernandomercado529@gmail.com)](https://github.com/fernando59)
 [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-mercado-saby/)](https://www.linkedin.com/in/fernando-mercado-saby/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/fernando59)](https://github.com/fernando59)
 
@@ -37,7 +37,7 @@ Vim                       ██████  20.0%
 
 
 💻 Operating Systems: 
-Linux                     ████████████████   50.0%
+Linux                     ████████████████  50.0%
 Windows                   ████████████████  50.0%
 
 
